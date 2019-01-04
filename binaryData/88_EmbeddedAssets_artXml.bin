@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="art.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Arrow0000" x="2021" y="83" width="14" height="44" pivotX="-2.4" pivotY="-2.95"/>
+	<SubTexture name="ArrowBullet0000" x="2" y="600" width="44" height="12" pivotX="1" pivotY="1"/>
+	<SubTexture name="ArrowEff0000" x="422" y="779" width="84" height="82" pivotX="15.3" pivotY="18.6"/>
+	<SubTexture name="ArrowEff0001" x="1083" y="779" width="84" height="82"/>
+	<SubTexture name="ArrowEff0002" x="1169" y="779" width="84" height="82"/>
+	<SubTexture name="ArrowEff0003" x="93" y="794" width="84" height="82"/>
+	<SubTexture name="ArrowEff0004" x="422" y="779" width="84" height="82"/>
+	<SubTexture name="ArrowEff0005" x="179" y="794" width="84" height="82"/>
+	<SubTexture name="Bar0000" x="218" y="572" width="70" height="22" pivotX="1" pivotY="1"/>
+	<SubTexture name="Bar0001" x="965" y="915" width="70" height="22"/>
+	<SubTexture name="Bar0002" x="643" y="1011" width="70" height="22"/>
+	<SubTexture name="Bar0003" x="715" y="1011" width="70" height="22"/>
+	<SubTexture name="BattleLine0000" x="2" y="580" width="104" height="18" pivotX="1" pivotY="1"/>
+	<SubTexture name="BattleSkull0000" x="2006" y="876" width="40" height="41" pivotX="5.25" pivotY="5.3"/>
+	<SubTexture name="BattleSkull0001" x="1269" y="947" width="40" height="41"/>
+	<SubTexture name="BattleSkull0002" x="348" y="1009" width="40" height="41"/>
+	<SubTexture name="BladeEff0000" x="1846" y="156" width="99" height="213" pivotX="18.15" pivotY="29.1"/>
+	<SubTexture name="BladeEff0001" x="1947" y="156" width="99" height="213"/>
+	<SubTexture name="BladeEff0002" x="634" y="210" width="99" height="213"/>
+	<SubTexture name="Blood0000" x="93" y="697" width="51" height="59" pivotX="41.35" pivotY="31.3"/>
+	<SubTexture name="Blood0001" x="508" y="779" width="51" height="59"/>
+	<SubTexture name="Blood0002" x="1216" y="947" width="51" height="59"/>
+	<SubTexture name="Blood0003" x="232" y="948" width="51" height="59"/>
+	<SubTexture name="Blood0004" x="285" y="948" width="51" height="59"/>
+	<SubTexture name="Blood0005" x="338" y="948" width="51" height="59"/>
+	<SubTexture name="Blood0006" x="2" y="950" width="51" height="59"/>
+	<SubTexture name="Blood0007" x="1435" y="950" width="51" height="59"/>
+	<SubTexture name="Blood0008" x="1488" y="950" width="51" height="59"/>
+	<SubTexture name="Blood0009" x="1541" y="951" width="51" height="59"/>
+	<SubTexture name="Blood0010" x="1826" y="952" width="51" height="59"/>
+	<SubTexture name="Blood0011" x="1879" y="952" width="51" height="59"/>
+	<SubTexture name="Blood0012" x="1932" y="952" width="51" height="59"/>
+	<SubTexture name="Bone0000" x="294" y="465" width="28" height="11" pivotX="13.45" pivotY="4.25"/>
+	<SubTexture name="BossFrame0000" x="881" y="940" width="275" height="20" pivotX="2.85" pivotY="0.4"/>
+	<SubTexture name="Btn_Tutrial0000" x="1374" y="992" width="53" height="54" pivotX="1" pivotY="1"/>
+	<SubTexture name="Btn_pause0000" x="1762" y="973" width="54" height="54" pivotX="1" pivotY="1"/>
+	<SubTexture name="Cage0000" x="1070" y="436" width="118" height="124" pivotX="0.35" pivotY="-2.9"/>
+	<SubTexture name="CagePart0000" x="565" y="680" width="30" height="41" pivotX="9.1" pivotY="1"/>
+	<SubTexture name="Coin0000" x="110" y="458" width="27" height="27" pivotX="1.5" pivotY="1.5"/>
+	<SubTexture name="DragonFlame0000" x="1594" y="973" width="54" height="54" pivotX="5.75" pivotY="7.25"/>
+	<SubTexture name="DragonFlame0001" x="1650" y="973" width="54" height="54"/>
+	<SubTexture name="DragonFlame0002" x="1706" y="973" width="54" height="54"/>
+	<SubTexture name="DustBull0000" x="1406" y="558" width="126" height="93" pivotX="0.4" pivotY="50.55"/>
+	<SubTexture name="DustBull0001" x="1534" y="558" width="126" height="93"/>
+	<SubTexture name="DustBull0002" x="618" y="562" width="126" height="93"/>
+	<SubTexture name="DustBull0003" x="746" y="562" width="126" height="93"/>
+	<SubTexture name="DustBull0004" x="874" y="562" width="126" height="93"/>
+	<SubTexture name="DustBull0005" x="1002" y="562" width="126" height="93"/>
+	<SubTexture name="DustBull0006" x="218" y="600" width="126" height="93"/>
+	<SubTexture name="DustBull0007" x="346" y="600" width="126" height="93"/>
+	<SubTexture name="FireBall_1_0000" x="735" y="210" width="50" height="87" pivotX="35.5" pivotY="70.35"/>
+	<SubTexture name="FireSkull0000" x="149" y="617" width="60" height="74" pivotX="-5.85" pivotY="-4.65"/>
+	<SubTexture name="FireSkull0001" x="1640" y="897" width="60" height="74"/>
+	<SubTexture name="FireSkull0002" x="1702" y="897" width="60" height="74"/>
+	<SubTexture name="FireSkull0003" x="1764" y="897" width="60" height="74"/>
+	<SubTexture name="FireSkull0004" x="1312" y="930" width="60" height="74"/>
+	<SubTexture name="FlashPalm0000" x="2" y="226" width="194" height="104" pivotX="58.55" pivotY="0"/>
+	<SubTexture name="Kaban0000" x="2" y="617" width="145" height="78" pivotX="2.2" pivotY="-10.5"/>
+	<SubTexture name="Kaban0001" x="1662" y="619" width="145" height="78"/>
+	<SubTexture name="Kaban0002" x="1809" y="619" width="145" height="78"/>
+	<SubTexture name="LifeFrame0000" x="735" y="299" width="44" height="8" pivotX="0" pivotY="0"/>
+	<SubTexture name="LifeLine0000" x="632" y="425" width="41" height="5" pivotX="0" pivotY="0"/>
+	<SubTexture name="Nut0000" x="294" y="369" width="44" height="47" pivotX="3.7" pivotY="-0.9"/>
+	<SubTexture name="PartFire0000" x="1730" y="436" width="24" height="24" pivotX="1" pivotY="1.05"/>
+	<SubTexture name="Part_circle0000" x="178" y="1011" width="36" height="37" pivotX="1.75" pivotY="1.75"/>
+	<SubTexture name="PigArrow0000" x="2021" y="2" width="16" height="79" pivotX="14.85" pivotY="76.3"/>
+	<SubTexture name="PoisonBullet0000" x="881" y="877" width="82" height="49" pivotX="86.6" pivotY="-6.55"/>
+	<SubTexture name="Root0000" x="1956" y="497" width="73" height="127" pivotX="1" pivotY="1"/>
+	<SubTexture name="Root0001" x="1956" y="626" width="73" height="127"/>
+	<SubTexture name="ShieldAnim0000" x="1190" y="436" width="106" height="120" pivotX="9.6" pivotY="12.45"/>
+	<SubTexture name="ShieldAnim0001" x="1298" y="436" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0002" x="1406" y="436" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0003" x="1514" y="436" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0004" x="1622" y="436" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0005" x="2" y="458" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0006" x="294" y="478" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0007" x="402" y="478" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0008" x="510" y="478" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0009" x="110" y="495" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0010" x="1730" y="497" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0011" x="1838" y="497" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0012" x="1190" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0013" x="1298" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0014" x="1298" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0015" x="1298" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0016" x="1298" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0017" x="1298" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0018" x="1298" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0019" x="1298" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0020" x="1298" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0021" x="1298" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0022" x="1298" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0023" x="1298" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0024" x="1298" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0025" x="1298" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0026" x="1298" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0027" x="1298" y="558" width="106" height="120"/>
+	<SubTexture name="ShieldAnim0028" x="1190" y="558" width="106" height="120"/>
+	<SubTexture name="SideL0000" x="422" y="750" width="39" height="18" pivotX="1" pivotY="1"/>
+	<SubTexture name="SideR0000" x="1083" y="756" width="39" height="18" pivotX="0.7" pivotY="1"/>
+	<SubTexture name="Skill_1_Part0000" x="2021" y="129" width="20" height="21" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skill_1_Trail0000" x="2" y="1011" width="125" height="18" pivotX="0" pivotY="0"/>
+	<SubTexture name="Skill_2_Arrow0000" x="965" y="877" width="105" height="36" pivotX="17.75" pivotY="9.3"/>
+	<SubTexture name="Skill_4_Eff0000" x="1985" y="952" width="53" height="56" pivotX="26.75" pivotY="33.1"/>
+	<SubTexture name="Skill_4_Eff0001" x="55" y="953" width="53" height="56"/>
+	<SubTexture name="Skill_4_Eff0002" x="110" y="953" width="53" height="56"/>
+	<SubTexture name="Skill_4_Eff0003" x="165" y="953" width="53" height="56"/>
+	<SubTexture name="Skill_4_Eff0004" x="483" y="953" width="53" height="56"/>
+	<SubTexture name="Skill_4_Eff0005" x="538" y="953" width="53" height="56"/>
+	<SubTexture name="Skill_4_Eff0006" x="593" y="953" width="53" height="56"/>
+	<SubTexture name="Skill_4_Eff0007" x="648" y="953" width="53" height="56"/>
+	<SubTexture name="Skill_4_Eff0008" x="703" y="953" width="53" height="56"/>
+	<SubTexture name="Skill_4_Eff0009" x="758" y="953" width="53" height="56"/>
+	<SubTexture name="Skill_4_Eff0010" x="813" y="953" width="53" height="56"/>
+	<SubTexture name="Skill_4_Eff0011" x="868" y="962" width="53" height="56"/>
+	<SubTexture name="Skill_4_Eff0012" x="923" y="962" width="53" height="56"/>
+	<SubTexture name="Skill_4_Eff0013" x="978" y="962" width="53" height="56"/>
+	<SubTexture name="Skill_4_Eff0014" x="1033" y="962" width="53" height="56"/>
+	<SubTexture name="Skill_4_Explos0000" x="340" y="226" width="144" height="124" pivotX="34.75" pivotY="76.5"/>
+	<SubTexture name="Skill_4_Explos0001" x="340" y="226" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0002" x="486" y="226" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0003" x="735" y="310" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0004" x="881" y="310" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0005" x="1027" y="310" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0006" x="1173" y="310" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0007" x="1319" y="310" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0008" x="1465" y="310" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0009" x="1611" y="310" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0010" x="2" y="332" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0011" x="340" y="352" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0012" x="486" y="352" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0013" x="148" y="369" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0014" x="1757" y="371" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0015" x="632" y="436" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0016" x="778" y="436" width="144" height="124"/>
+	<SubTexture name="Skill_4_Explos0017" x="924" y="436" width="144" height="124"/>
+	<SubTexture name="Skill_4_FireBall0000" x="1406" y="653" width="145" height="77" pivotX="9.7" pivotY="9.15"/>
+	<SubTexture name="Skill_4_Trail0000" x="220" y="1009" width="126" height="18" pivotX="0" pivotY="0"/>
+	<SubTexture name="Skill_5_Plant0000" x="1757" y="310" width="83" height="53" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skill_6_Healing0000" x="1325" y="680" width="72" height="119" pivotX="-1" pivotY="21.75"/>
+	<SubTexture name="Skill_6_Healing0001" x="1735" y="699" width="72" height="119"/>
+	<SubTexture name="Skill_6_Healing0002" x="1809" y="699" width="72" height="119"/>
+	<SubTexture name="Skill_6_Healing0003" x="1399" y="732" width="72" height="119"/>
+	<SubTexture name="Skill_6_Healing0004" x="1473" y="732" width="72" height="119"/>
+	<SubTexture name="Skill_6_Healing0005" x="1547" y="752" width="72" height="119"/>
+	<SubTexture name="Skill_6_Healing0006" x="1883" y="755" width="72" height="119"/>
+	<SubTexture name="Skill_6_Healing0007" x="1957" y="755" width="72" height="119"/>
+	<SubTexture name="Skill_6_Healing0008" x="565" y="756" width="72" height="119"/>
+	<SubTexture name="Skill_6_Healing0009" x="639" y="756" width="72" height="119"/>
+	<SubTexture name="Skill_6_Healing0010" x="713" y="756" width="72" height="119"/>
+	<SubTexture name="Skill_6_Healing0011" x="787" y="756" width="72" height="119"/>
+	<SubTexture name="Skill_6_Healing0012" x="861" y="756" width="72" height="119"/>
+	<SubTexture name="Skill_6_Healing0013" x="935" y="756" width="72" height="119"/>
+	<SubTexture name="Skill_6_Healing0014" x="1009" y="756" width="72" height="119"/>
+	<SubTexture name="Skull0000" x="494" y="1011" width="47" height="44" pivotX="46.25" pivotY="1"/>
+	<SubTexture name="Skull0_0000" x="148" y="332" width="46" height="33" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull10_0000" x="1088" y="962" width="57" height="52" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull12_0000" x="1143" y="623" width="40" height="45" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull13_0000" x="391" y="993" width="52" height="55" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull14_0000" x="595" y="1011" width="46" height="44" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull15_0000" x="1237" y="878" width="73" height="67" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull16_0000" x="1147" y="997" width="52" height="55" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull18_0000" x="1985" y="1010" width="52" height="43" pivotX="25.85" pivotY="21.3"/>
+	<SubTexture name="Skull19_0000" x="445" y="1011" width="47" height="44" pivotX="0.15" pivotY="1"/>
+	<SubTexture name="Skull1_0000" x="422" y="695" width="49" height="53" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull20_0000" x="543" y="1011" width="50" height="41" pivotX="24.7" pivotY="20.1"/>
+	<SubTexture name="Skull21_0000" x="1662" y="558" width="66" height="56" pivotX="32.55" pivotY="27.75"/>
+	<SubTexture name="Skull22_0000" x="419" y="940" width="62" height="51" pivotX="30.4" pivotY="25"/>
+	<SubTexture name="Skull24_0000" x="1883" y="699" width="68" height="54" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull25_0000" x="1158" y="940" width="56" height="55" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull26_0000" x="1322" y="1006" width="46" height="52" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull27_0000" x="1374" y="930" width="59" height="60" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull28_0000" x="474" y="600" width="121" height="78" pivotX="1.3" pivotY="9.5"/>
+	<SubTexture name="Skull2_0000" x="1201" y="1008" width="57" height="40" pivotX="1" pivotY="2.95"/>
+	<SubTexture name="Skull30_0000" x="445" y="1011" width="47" height="44" pivotX="0.15" pivotY="1"/>
+	<SubTexture name="Skull31_0000" x="1143" y="623" width="40" height="45" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull3_0000" x="294" y="418" width="41" height="45" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull4_0000" x="1332" y="801" width="65" height="45" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull6_0000" x="129" y="1011" width="47" height="45" pivotX="0.15" pivotY="1"/>
+	<SubTexture name="Skull7_0000" x="1269" y="1006" width="51" height="47" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull8_0000" x="1130" y="562" width="53" height="59" pivotX="1" pivotY="1"/>
+	<SubTexture name="Skull9_0000" x="1130" y="562" width="53" height="59" pivotX="1" pivotY="1"/>
+	<SubTexture name="Smoke1_0000" x="1553" y="653" width="89" height="97" pivotX="46.4" pivotY="57.55"/>
+	<SubTexture name="Smoke1_0001" x="597" y="657" width="89" height="97"/>
+	<SubTexture name="Smoke1_0002" x="688" y="657" width="89" height="97"/>
+	<SubTexture name="Smoke1_0003" x="779" y="657" width="89" height="97"/>
+	<SubTexture name="Smoke1_0004" x="870" y="657" width="89" height="97"/>
+	<SubTexture name="Smoke1_0005" x="961" y="657" width="89" height="97"/>
+	<SubTexture name="Smoke1_0006" x="1052" y="657" width="89" height="97"/>
+	<SubTexture name="Smoke1_0007" x="474" y="680" width="89" height="97"/>
+	<SubTexture name="Smoke1_0008" x="1143" y="680" width="89" height="97"/>
+	<SubTexture name="Smoke1_0009" x="1234" y="680" width="89" height="97"/>
+	<SubTexture name="Smoke1_0010" x="149" y="695" width="89" height="97"/>
+	<SubTexture name="Smoke1_0011" x="240" y="695" width="89" height="97"/>
+	<SubTexture name="Smoke1_0012" x="331" y="695" width="89" height="97"/>
+	<SubTexture name="Smoke1_0013" x="2" y="697" width="89" height="97"/>
+	<SubTexture name="Smoke1_0014" x="1644" y="699" width="89" height="97"/>
+	<SubTexture name="SpArrow0000" x="1730" y="462" width="15" height="12" pivotX="1" pivotY="1"/>
+	<SubTexture name="Spear1_0000" x="2030" y="371" width="14" height="76" pivotX="1" pivotY="73.6"/>
+	<SubTexture name="Spell00_0000" x="79" y="878" width="75" height="73" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spell01_0000" x="1775" y="820" width="75" height="75" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spell01_0001" x="1332" y="853" width="75" height="75"/>
+	<SubTexture name="Spell02_0000" x="265" y="871" width="75" height="75" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spell02_0001" x="342" y="871" width="75" height="75"/>
+	<SubTexture name="Spell03_0000" x="1563" y="875" width="75" height="74" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spell03_0001" x="1852" y="876" width="75" height="74"/>
+	<SubTexture name="Spell04_0000" x="573" y="877" width="75" height="74" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spell04_0001" x="650" y="877" width="75" height="74"/>
+	<SubTexture name="Spell10_0000" x="79" y="878" width="75" height="73" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spell11_0000" x="1409" y="853" width="75" height="75" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spell11_0001" x="419" y="863" width="75" height="75"/>
+	<SubTexture name="Spell12_0000" x="1255" y="801" width="75" height="75" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spell12_0001" x="1698" y="820" width="75" height="75"/>
+	<SubTexture name="Spell13_0000" x="727" y="877" width="75" height="74" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spell13_0001" x="804" y="877" width="75" height="74"/>
+	<SubTexture name="Spell14_0000" x="1083" y="863" width="75" height="75" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spell14_0001" x="1160" y="863" width="75" height="75"/>
+	<SubTexture name="Spell20_0000" x="156" y="878" width="74" height="73" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spell21_0000" x="2" y="796" width="75" height="75" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spell21_0001" x="1621" y="798" width="75" height="75"/>
+	<SubTexture name="Spell22_0000" x="2" y="873" width="75" height="75" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spell22_0001" x="1486" y="873" width="75" height="75"/>
+	<SubTexture name="Spell23_0000" x="1929" y="876" width="75" height="74" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spell23_0001" x="496" y="877" width="75" height="74"/>
+	<SubTexture name="Spell24_0000" x="265" y="794" width="75" height="75" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spell24_0001" x="342" y="794" width="75" height="75"/>
+	<SubTexture name="Spell_un0000" x="218" y="495" width="74" height="75" pivotX="0" pivotY="0"/>
+	<SubTexture name="Spinner0000" x="198" y="226" width="140" height="141" pivotX="4" pivotY="3.95"/>
+	<SubTexture name="SplashSpell0000" x="634" y="2" width="160" height="206" pivotX="0" pivotY="1.65"/>
+	<SubTexture name="Sun0000" x="1903" y="371" width="125" height="124" pivotX="3.85" pivotY="4.8"/>
+	<SubTexture name="Tornado0000" x="2" y="2" width="156" height="222" pivotX="6.05" pivotY="6.8"/>
+	<SubTexture name="Tornado0001" x="160" y="2" width="156" height="222"/>
+	<SubTexture name="Tornado0002" x="318" y="2" width="156" height="222"/>
+	<SubTexture name="Tornado0003" x="476" y="2" width="156" height="222"/>
+	<SubTexture name="YellowBullet0000" x="796" y="2" width="173" height="152" pivotX="16.7" pivotY="25.2"/>
+	<SubTexture name="YellowBullet0001" x="971" y="2" width="173" height="152"/>
+	<SubTexture name="YellowBullet0002" x="1146" y="2" width="173" height="152"/>
+	<SubTexture name="YellowBullet0003" x="1321" y="2" width="173" height="152"/>
+	<SubTexture name="YellowBullet0004" x="1496" y="2" width="173" height="152"/>
+	<SubTexture name="YellowBullet0005" x="1671" y="2" width="173" height="152"/>
+	<SubTexture name="YellowBullet0006" x="1846" y="2" width="173" height="152"/>
+	<SubTexture name="YellowBullet0007" x="796" y="156" width="173" height="152"/>
+	<SubTexture name="YellowBullet0008" x="971" y="156" width="173" height="152"/>
+	<SubTexture name="YellowBullet0009" x="1146" y="156" width="173" height="152"/>
+	<SubTexture name="YellowBullet0010" x="1321" y="156" width="173" height="152"/>
+	<SubTexture name="YellowBullet0011" x="1496" y="156" width="173" height="152"/>
+	<SubTexture name="YellowBullet0012" x="1671" y="156" width="173" height="152"/>
+	<SubTexture name="Символ 297 образец 10000" x="2030" y="449" width="16" height="16" pivotX="0.75" pivotY="0.75"/>
+	<SubTexture name="Символ 444 образец 10000" x="787" y="1011" width="65" height="21" pivotX="0" pivotY="0"/>
+</TextureAtlas>
