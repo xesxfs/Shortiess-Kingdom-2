@@ -1,4 +1,4 @@
-package com.mygame.heroes
+yj7ihpackage com.mygame.heroes
 {
    import com.general.Amath;
    import com.mygame.effects.Damage_info;
